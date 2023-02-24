@@ -4,7 +4,7 @@ This GitHub repository will document every step I take in the university, and it
 
 The root folder structure will contain the year's in university, and then it would split into three semesters sem1 sem2 summer then every class will have it's folder
 **Example**
-`
+```
 Year 1
   Semester 1
     Class 1
@@ -17,7 +17,7 @@ Year 1
     Class 3
     
   Summer Semester
-`
+```
 
 All of the lecture notes, assignments, and projects will be organized into this folders, so they can be easily accessed. 
 
